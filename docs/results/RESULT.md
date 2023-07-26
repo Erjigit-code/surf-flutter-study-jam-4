@@ -8,4 +8,4 @@
 
 # Ссылки на демонстрацию работы/скриншоты
 
-[https://github.com/Erjigit-code/surf-flutter-study-jam-4/blob/study-jam-4/results.png?raw=true]
+https://github.com/Erjigit-code/surf-flutter-study-jam-4/blob/study-jam-4/results.png?raw=true
