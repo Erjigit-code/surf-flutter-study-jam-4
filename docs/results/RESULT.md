@@ -8,7 +8,7 @@
 
 # Ссылки на демонстрацию работы/скриншоты
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/Erjigit-code/surf-flutter-study-jam-4/blob/study-jam-4/results.png?raw=true" />
 </p>
 
