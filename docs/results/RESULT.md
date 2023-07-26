@@ -12,8 +12,11 @@
 <p align="left">
 <img src="https://github.com/Erjigit-code/surf-flutter-study-jam-4/blob/study-jam-4/results.png?raw=true" />
 </p>
-И в отдельном классе отредактировал их (перевел на русский) с помощью .replaceAll
-![image](https://github.com/Erjigit-code/surf-flutter-study-jam-4/assets/72736628/69ab7836-a875-4c1e-8801-99079a866bf1)
+И в отдельном классе отредактировал их (перевел на русский) с помощью .replaceAll:
+<p align="left">
+<img src="https://github.com/Erjigit-code/surf-flutter-study-jam-4/blob/study-jam-4/result2.png?raw=true" />
+</p>
+
 
 
 # Ссылки на демонстрацию работы/скриншоты
